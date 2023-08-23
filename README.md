@@ -3,6 +3,10 @@
 Comandos:
 
 ```
+apt install git -y
+```
+
+```
 git clone https://github.com/Matchzin/Minhas-Instalacoes.git
 ```
 
