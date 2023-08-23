@@ -26,7 +26,7 @@ printf "${BLUE}Essa primeira parte requer acompanhamento, "
 printf "${RED}não saia daqui.\n"
 
 # Comando termux-change-repo não parece estar correto, talvez você queira algo como:
-# termux-change-repo
+ termux-change-repo
 
 apt update -y && pkg upgrade -y &> /dev/null/
 printf "Atualizando repositórios..."
