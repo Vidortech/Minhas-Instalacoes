@@ -7,7 +7,7 @@ apt install git -y
 ```
 
 ```
-git clone https://github.com/Matchzin/Minhas-Instalacoes.git
+git clone https://github.com/Vidortech/Minhas-Instalacoes.git
 ```
 
 No termux: 
